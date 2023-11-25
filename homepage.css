@@ -1,0 +1,29 @@
+.tab {
+    padding: 10px;
+    height: 380px;
+    width: 400px;
+    margin: auto;
+    background-color: aqua;
+
+}
+.a {
+    padding: 10px;
+    height: 30px;
+    width: 40px;
+    margin: auto;
+    background-color: purple;
+
+}
+.n {
+    padding: 10px;
+    height: 30px;
+    width: 40px;
+    margin: auto;
+    background-color: purple;
+
+}
+.t {
+color: white;
+
+}
+
